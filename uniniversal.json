@@ -1,0 +1,21 @@
+{
+  "name": "CC0 Images Universal Index",
+  "license": "CC0 1.0 Universal",
+  "categories": {
+    "animated": {
+      "index_file": "animated/animated.json"
+    },
+    "cinematic and anime": {
+      "index_file": "cinematic and anime/cinematic_and_anime.json"
+    },
+    "inviorment": {
+      "index_file": "inviorment/inviorment.json"
+    },
+    "other": {
+      "index_file": "other/other.json"
+    },
+    "pixal": {
+      "index_file": "pixal/pixal.json"
+    }
+  }
+}
